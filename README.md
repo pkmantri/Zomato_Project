@@ -34,7 +34,7 @@ This project focuses on **analyzing Zomato dataset** to uncover insights about r
 ## 🚀 How to Run  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/zomato-data-analysis.git
+   git clone https://github.com/pkmantri/zomato-data-analysis.git
    cd zomato-data-analysis
    ```
 2. Install required libraries:  
